@@ -163,7 +163,7 @@
                     </p>
                     <div class="grid grid-cols-2 gap-4">
                         <img src="../assets/724.png" alt="all1zed card" class="w-full aspect-video">
-                        <img src="../assets/CARD back.png" alt="all1zed card"  class="w-full aspect-video">
+                        <img src="../assets/CARD-back.png" alt="all1zed card"  class="w-full aspect-video">
                     </div>
                 </div>
             </div>
