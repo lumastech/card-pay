@@ -399,7 +399,7 @@
     
                 <div class="grid md:grid-cols-3 gap-4 text-gray-500">
                     <div class="dbg bg-gray-100 rounded-md shadow-sm hover:shadow-xl transition">
-                        <div class="backdrop-blur-2xl text-center p-2 rounded-md">
+                        <div class="backdrop-blur-2xl text-center p-2 rounded-md h-full">
                             <img src="../assets/need-sales-icon.png" alt="sals" class="mx-auto">
                             <h3 class="text-xl my-4 text-color2">Sales</h3>
                             <p>
@@ -412,7 +412,7 @@
                     </div>
                     
                     <div class="dbg bg-gray-100 rounded-md shadow-sm hover:shadow-xl transition">
-                        <div class="backdrop-blur-2xl text-center p-2 rounded-md">
+                        <div class="backdrop-blur-2xl text-center p-2 rounded-md h-full">
                             <img src="../assets/need-sales-icon.png" alt="sals" class="mx-auto">
                             <h3 class="text-xl my-4 text-color2">Help & support</h3>
                             <p>
@@ -424,7 +424,7 @@
                     </div>
                     
                     <div class="dbg bg-gray-100 rounded-md shadow-sm hover:shadow-xl transition">
-                        <div class="backdrop-blur-2xl text-center p-2 rounded-md">
+                        <div class="backdrop-blur-2xl text-center p-2 rounded-md h-full">
                             <img src="../assets/need-sales-icon.png" alt="sals" class="mx-auto">
                             <h3 class="text-xl my-4 text-color2">Article & News</h3>
                             <p>
