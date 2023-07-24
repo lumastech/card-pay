@@ -441,67 +441,19 @@
     </section>
 
     <!-- footer -->
-    <footer class="py-16 md:py-28 bg-color1">
-        <!-- partner logs -->
-        <div class="flex">
-            <img src="#" class="flex-auto" alt="">
-        </div>
-
-        <!-- footer content -->
-        <div class="grid md:grid-cols-4 gap-4 px-4">
-            <div class="">
-                <img src="../assets/full-logo.png" alt="" class="logo"> <!--  logo -->
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, soluta.</p>
-                <div class="grid grid-cols-4">
-                    <!-- 4 image cards -->
-                </div>
-            </div>
-            <div>
-                <h2 class="font-bold">Important Links</h2>
-                <div class="bg-green-500 h-px w-1/6 mb-2"></div>
-                <ul>
-                    <li><a href="#" class="block hover:text-green-500 transition">Home</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">About Us</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Services</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Contact</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Project</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Disclaimer</a></li>
-                </ul>
-            </div>
-            
-            <div>
-                <h2 class="font-bold">Support</h2>
-                <div class="bg-green-500 h-px w-1/6 mb-2"></div>
-                <ul>
-                    <li><a href="#" class="block hover:text-green-500 transition">Support</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Contact Us</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Knowledge Base</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">About Us</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">FAQ</a></li>
-                    <li><a href="#" class="block hover:text-green-500 transition">Partnership</a></li>
-                </ul>
-            </div>
-            
-            <div>
-                <h2 class="font-bold">Get in touch</h2>
-                <div class="bg-green-500 h-px w-1/6 mb-2"></div>
-                <ul>
-                    <li><a href="#">Email: info@all1zed.com</a></li>
-                    <li><a href="#">Phone: +260 971 234 567</a></li>
-                </ul>
-            </div>
-        </div>
-    </footer>
+    
+<Footer />
 </div>
 </template>
 
 <script>
 // import WebLayout from '../layout/WebLayout.vue';
 import Navbar from './shared/Navbar.vue';
+import Footer from './shared/Footer.vue'
 
     export default {
     components: {
-        Navbar
+        Navbar, Footer
     }
 }
 </script>
