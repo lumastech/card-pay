@@ -5,18 +5,18 @@
     <!-- header section -->
     <section class="header-bg bg-cover bg-center">
         <div class="backdrop-blur-2xl px-4 border-b shadow-sm">
-            <div class="grid md:grid-cols-5 gap-4 py-28 max-w-7xl mx-auto">
-                <div class="text-color2 md:col-span-3 self-center text-center md:text-left">
+            <div class="grid md:grid-cols-5 gap-4 py-12 md:py-28 max-w-7xl mx-auto">
+                <div class="text-color2 md:col-span-3 self-center md:text-center md:text-left">
                     <div class="uppercase text-xl">SECURE . TRANSPARENT . SECURE</div>
                     <h1 class="text-4xl capitalize my-4 md:my-7 font-bold drop-shadow">The Smart Way for CashlessPayments and Transactions</h1>
                     <p class="">This card is designed for both the banked and the unbanked. It
                         bridges payment transactions between Mobile Money and Banks with
                         real time funds settlement.</p>
                     <div class="flex gap-4">
-                        <button class="bg-color1 text-white text-xl uppercase px-4 py-2 rounded mt-7 shadow-gray-500/50 shadow hover:bg-green-700 transition">Open free Account</button>
-                        <button class="bg-color2 text-white text-xl uppercase px-4 py-2 rounded mt-7 shadow-gray-500/50 shadow hover:bg-green-700 transition">Request a card</button>
+                        <button class="bg-color1 text-white text-sm md:text-xl uppercase p-2 md:px-4 py-2 rounded mt-7 shadow-gray-500/50 shadow hover:bg-green-700 transition">Open free Account</button>
+                        <button class="bg-color2 text-white text-sm md:text-xl uppercase p-2 md:px-4 py-2 rounded mt-7 shadow-gray-500/50 shadow hover:bg-green-700 transition">Request a card</button>
                     </div>
-                    <p class="text-4xl capitalize my-4 md:my-7 font-bold drop-shadow">Dial *772#</p>
+                    <p class="text-2xl md:text-4xl capitalize my-7 font-bold drop-shadow">Dial *772#</p>
                 </div>
                 <!-- image show case -->
                 <div class="hidden md:inline md:col-span-2 text-center self-center">
@@ -29,18 +29,18 @@
 
     <!-- mobile only -->
     <div class="md:hidden px-4 py-12">
-        <h2 class="text-center text-4xl capitalize my-4 md:my-7 font-bold drop-shadow text-color2">SIMPLY TAP & GO</h2>
+        <h2 class="text-center text-2xl md:text-4xl capitalize my-4 md:my-7 font-bold drop-shadow text-color2">SIMPLY TAP & GO</h2>
         <img src="../assets/card.png" alt="pos" class="w-full">
     </div>
 
     <!--  -->
-    <section class="px-4 py-16 md:py-28 text-center max-w-7xl mx-auto">
-        <h2 class="text-2xl md:text-4xl uppercase font-bold text-color1">TECHNOLOGY</h2>
-        <h3 class="capitalize mb-4 max-w-4xl mx-auto">
+    <section class="px-4 py-16 md:py-28 md:text-center max-w-7xl mx-auto">
+        <h2 class="text-2xl md:text-4xl uppercase font-bold text-color1 mb-4">TECHNOLOGY</h2>
+        <p class="capitalize mb-4 max-w-4xl mx-auto text-justify">
             All1Zed Money Pay is utilizing fraud free advanced Card Tapping Technology. All the software designs and development have
             been designed locally in Zambia and are undergoing constant updating to suit security, market trends of Card User or Merchant
             demands.
-        </h3>
+        </p>
 
         <div class="grid md:grid-cols-3 gap-4 py-12">
             <div class="text-center bg-green-50 rounded shadow-sm p-2 hover:shadow-xl transition">
@@ -78,17 +78,17 @@
         <h2 class="text-xl mb-4">Choose the Account type tha suits your needs</h2>
 
         <div class="grid grid-cols-2 gap-4 uppercase max-w-md mx-auto">
-                <a href="#" class="rounded-md flex md:p-2 border gap-2 bg-orange-500 hover:bg-orange-700 text-white hover:shadow-xl transition">
-                <div class="self-center">
-                    <img class="h-14 w-16" src="../assets/personal-account-icon-2.png" alt="business account">
-                </div>
-                <span class="self-center">personal account</span>
+                <a href="#" class="rounded-md flex p-1 md:p-2 border gap-2 bg-orange-500 hover:bg-orange-700 text-white hover:shadow-xl transition">
+                    <div class="self-center">
+                        <img class="w-12 md:w-14" src="../assets/personal-account-icon-2.png" alt="business account">
+                    </div>
+                    <span class="self-center text-sm md:text-lead">personal account</span>
                 </a>
-                <a href="#" class="rounded-md flex p-2 border gap-2 bg-green-500 hover:bg-green-700 text-white hover:shadow-xl transition">
-                <div class="self-center">
-                    <img class="h-14 w-16" src="../assets/Untitled-10d.png" alt="user account">
-                </div>
-                <span class="self-center">business account</span>
+                <a href="#" class="rounded-md flex p-1 md:p-2 border gap-2 bg-green-500 hover:bg-green-700 text-white hover:shadow-xl transition">
+                    <div class="self-center">
+                        <img class="w-12 md:w-14" src="../assets/Untitled-10d.png" alt="user account">
+                    </div>
+                    <span class="self-center text-sm md:text-lead">business account</span>
                 </a>
         </div>
     </section>
@@ -99,7 +99,7 @@
         <div class="filter py-16 md:py-28 text-white px-4 backdrop-blur-2xl">
             <div class="grid md:grid-cols-5 gap-4 md:gap-12 max-w-7xl mx-auto drop-shadow text-color2">
                 <div class="md:col-span-2 text-center self-center">
-                    <h2 class="text-4xl capitalize my-4 md:my-7 font-bold drop-shadow text-color2">SIMPLY TAP & GO</h2>
+                    <h2 class="text-2xl md:text-4xl capitalize my-4 md:my-7 font-bold drop-shadow text-color2">SIMPLY TAP & GO</h2>
                     <img src="../assets/card.png" alt="pos" class="w-full">
                 </div>
                 <div class="self-center md:col-span-3">
@@ -153,8 +153,8 @@
             
             <!-- card regiter -->
             <div class="dbg mx-4 rounded-md bg-gray-100">
-                <div class="backdrop-blur-2xl my-7 px-4 md:px-12 text-left shadow rounded-md py-16">
-                    <h2 class="text-4xl text-color1 my-4 font-bold">Card Registration</h2>
+                <div class="backdrop-blur-2xl my-7 px-4 md:px-12 text-left shadow rounded-md py-7 md:py-16">
+                    <h2 class="text-xl md:text-4xl text-color1 mb-4 font-bold">Card Registration</h2>
                     <p class="my-4">
                         The Card uses advanced technology for quick registration by the card user.
                         The cards are self-registered within 3 minutes by card user's by dialing the
@@ -274,7 +274,7 @@
         <div class="grid md:grid-cols-2">
             <div class="p-4 border-y md:border-y-0">
                 <h2 class="text-2xl font-bold text-color2">Fuel Station Payments</h2>
-                <p>
+                <p class="text-justify">
                     The characteristic of fast payments and ability to send funds instantly to any bank account has made the All1Zed
                     Pay system ideal for Fuel Station Payments. Most of the fuel stations do not accept mobile money because of huge
                     amounts of money they deal with. On the All1 Zed pay, card holders top up the cards with any mobile money
@@ -284,7 +284,7 @@
             
             <div class="p-4 md:border-l">
                 <h2 class="text-2xl font-bold text-color2">Supermarket</h2>
-                <p>
+                <p class="text-justify">
                     Most of the supermarkets with high turnover do not accept mobile money payments as the procedure of
                     transferring money to their bank accounts is cumbersome. The other reason why they don't prefer mobile money
                     payments is the long periods of settlement time were shop owners (merchants) have to wait for more than 24 hours
@@ -295,7 +295,7 @@
             
             <div class="p-4 border-y">
                 <h2 class="text-2xl font-bold text-color2">Money transfers</h2>
-                <p>
+                <p class="text-justify">
                     All1Zed Money/Pay BOASTS!! of funds transfer by card holders from Card to Mobile money wallets or Banks without
                     transaction charges. Current mobile wallets are Airtel Mobile Money, MTN Mobile Money and Zamtel Mobile
                     Money. Free funds transfers are from All1Zed Card to the following 13 Banks: ZANACO, ABSA, Standard Chartered,
@@ -305,7 +305,7 @@
             
             <div class="p-4 border-y md:border-l">
                 <h2 class="text-2xl font-bold text-color2">Payroll Business Solution</h2>
-                <p>
+                <p class="text-justify">
                     All1Zed Money/Pay card accounts can be used by Businesses who wish to pay their unbanked workers cashless. The
                     advantage of workers having their wages paid through All1Zed system is that the transfers from card to Mobile
                     Money or bank is free, no charge when buying goods using card and funds settled in card accounts instantly.
@@ -314,7 +314,7 @@
             
             <div class="p-4">
                 <h2 class="text-2xl font-bold text-color2">Card Merchant Pay</h2>
-                <p>
+                <p class="text-justify">
                     The All1Zed Pay is designed for rapid payment processing as it was initially designed for Football and Event Stadium
                     entry. This payment system utilizes advanced card Tapping Technology and makes real time (instant) funds
                     settlements to merchant Bank or Mobile Money accounts. During payments funds processing, a service fee is
@@ -324,7 +324,7 @@
             
             <div class="p-4 md:border-l border-y md:border-y-0">
                 <h2 class="text-2xl font-bold text-color2">Card to Bank account Fund's transfer</h2>
-                <p>
+                <p class="text-justify">
                     For Zambia to achieve a cashless society status, a full circle of Mobile Money and Bank transactions has to be
                     achieved. For this reason, Card holders have the liberty of transferring funds from card to Bank at zero charge. All
                     Funds settlements from Card to Bank are instant.
@@ -394,7 +394,7 @@
     <section class="">
         <div class="text-center filter py-16 md:py-28 bg-white/50 px-4">
             <div class="max-w-7xl mx-auto">
-                <h2 class="uppercase text-color1 font-bold text-4xl">need more help?</h2>
+                <h2 class="uppercase text-color1 font-bold text-2xl md:text-4xl">need more help?</h2>
                 <h3 class="text-color2 my-4 text-gray-500">SECURE . TRANSPARENT . SECURE</h3>
     
                 <div class="grid md:grid-cols-3 gap-4 text-gray-500">

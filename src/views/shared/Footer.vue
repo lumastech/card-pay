@@ -2,7 +2,7 @@
     <footer>
         <div class="filter bg-color1 backdrop-blur-xl">
             <div class="max-w-7xl mx-auto text-white px-2 md:px-4 py-16">
-                <div class="grid md:grid-cols-4 gap-4">
+                <div class="grid md:grid-cols-4 gap-4 text-center">
                     <img src="../../assets/logo d.png" alt="All1zed logo">
 
                      <hr class="border-t border-gray-500 md:hidden">
@@ -71,20 +71,20 @@
                         & Kaonde.</p>
                         <p class="my-4">Catch up with friends and have Zed fun with our great Chat feature.</p>
                         <p class="my-4 text-3xl font-bold">Get it from</p>
-                    <div class="flex justify-center gap-4 max-w-md mx-auto">
-                        <a href="https://play.google.com/store/apps/details?id=com.orem.ali1zed" class="bg-white p-1 px-2 hover:shadow-lg transition rounded-md overflow-hidden  shadow">
-                            <div class="flex gap-2">
+                    <div class="flex justify-center gap-2 md:gap-4 max-w-md mx-auto">
+                        <a href="https://play.google.com/store/apps/details?id=com.orem.ali1zed" class="dbg bg-white border-2 border-gray-500 p-px px-2 hover:shadow-lg transition rounded-md overflow-hidden  shadow">
+                            <div class="flex gap-2 backdrop-blur-2xl">
                                 <img src="../../assets/playstore.png" alt="Google play" class="w-9 self-center">
-                                <div class="self-center uppercase text-color1 text-left">
+                                <div class="self-center uppercase text-gray-500 text-left">
                                     <p class="text-xs">get it on</p>
-                                    <p class="font-bold">Google store</p>
+                                    <p class="font-bold">play store</p>
                                 </div>
                             </div>
                         </a>
-                        <a href="https://apps.apple.com/us/app/all1zed/id1588388550" class="bg-white p-1 px-2 hover:shadow-lg transition rounded-md overflow-hidden  shadow">
-                            <div class="flex gap-2">
+                        <a href="https://apps.apple.com/us/app/all1zed/id1588388550" class="dbg bg-white border-2 border-gray-500 p-px px-2 hover:shadow-lg transition rounded-md overflow-hidden  shadow">
+                            <div class="flex gap-2 backdrop-blur-2xl">
                                 <img src="../../assets/applestore.png" alt="Google play" class="w-9 self-center">
-                                <div class="self-center uppercase text-color1 text-left">
+                                <div class="self-center uppercase text-gray-500 text-left">
                                     <p class="text-xs">get it on</p>
                                     <p class="font-bold">Apple store</p>
                                 </div>
