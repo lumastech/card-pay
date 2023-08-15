@@ -3,7 +3,7 @@
         <div class="filter bg-color1 backdrop-blur-xl">
             <div class="max-w-7xl mx-auto text-white px-2 md:px-4 py-16">
                 <div class="grid md:grid-cols-4 gap-4 text-center">
-                    <img src="../../assets/logo d.png" alt="All1zed logo">
+                    <img src="../../assets/logo-d.png" alt="All1zed logo">
 
                      <hr class="border-t border-gray-500 md:hidden">
 
