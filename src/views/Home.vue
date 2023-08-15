@@ -9,7 +9,7 @@
                 <div class="text-color2 md:col-span-3 self-center md:text-center md:text-left">
                     <div class="uppercase text-xl">SECURE . TRANSPARENT . SECURE</div>
                     <h1 class="text-4xl capitalize my-4 md:my-7 font-bold drop-shadow">The Smart Way for CashlessPayments and Transactions</h1>
-                    <p class="">This card is designed for both the banked and the unbanked. It
+                    <p class="text-gray-500">This card is designed for both the banked and the unbanked. It
                         bridges payment transactions between Mobile Money and Banks with
                         real time funds settlement.</p>
                     <div class="flex gap-4">
@@ -96,14 +96,14 @@
 
     <!-- about section -->
     <section class="bg-two">
-        <div class="filter py-16 md:py-28 text-white px-4 backdrop-blur-2xl">
-            <div class="grid md:grid-cols-5 gap-4 md:gap-12 max-w-7xl mx-auto drop-shadow text-color2">
+        <div class="filter py-16 md:py-28 text-gray-700 px-4 backdrop-blur-2xl">
+            <div class="grid md:grid-cols-5 gap-4 md:gap-12 max-w-7xl mx-auto drop-shadow">
                 <div class="md:col-span-2 text-center self-center">
                     <h2 class="text-2xl md:text-4xl capitalize my-4 md:my-7 font-bold drop-shadow text-color2">SIMPLY TAP & GO</h2>
                     <img src="../assets/card.png" alt="pos" class="w-full">
                 </div>
                 <div class="self-center md:col-span-3">
-                    <h2 class="text-green-500 uppercase text-xl font-bold">ALL1ZED MONEY PAY IMPACT</h2>
+                    <h2 class="uppercase text-xl font-bold">ALL1ZED MONEY PAY IMPACT</h2>
                     <!-- <h3 class="text-2xl capitalize mb-4 font-bold">we have the most of the users across the country</h3> -->
                     <p class="my-4">
                         All1Zed Money/Pay has made mobile money payments easy and fast for both
@@ -252,12 +252,12 @@
 
     <!-- stediums -->
     <section class="stadium my-16">
-        <div class="backdrop-blur-md bg-white/50 py-12 px-4">
+        <div class="backdrop-blur-md bg-black/50 py-12 px-4">
             <div class="grid md:grid-cols-2 gap-4 drop-shadow max-w-7xl mx-auto">
-                <div class="self-center">
-                    <h2 class="text-color1 text-2xl font-bold">ALL1ZED MONEY PAY SERVICES</h2>
-                    <h3 class="my-4 text-color2 font-bold text-xl">Football Stadium Entry Payments</h3>
-                    <p class="text-color2">
+                <div class="self-center text-white">
+                    <h2 class=" text-2xl font-bold">ALL1ZED MONEY PAY SERVICES</h2>
+                    <h3 class="my-4  font-bold text-xl">Football Stadium Entry Payments</h3>
+                    <p class="">
                         Originally this system was designed for Rapid
                         payment and processing during stadiums with huge
                         patronage. The system is able to process stadium
@@ -460,7 +460,7 @@ import Footer from './shared/Footer.vue'
 
 <style>
     .header-bg, .bg-one{
-        background-image: url('../assets/ai-nuclear.jpg');
+        background-image: url('../assets/all1zed-logo-m.png');
         background-repeat: no-repeat;
         background-size: cover;
     }
