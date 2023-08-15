@@ -1,23 +1,23 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./index.html",
-    "./index.css",
-    "./src/**/*.{vue,js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./index.css", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {
       backdropBlur: {
+        xs: "4px",
+        md: "12px",
+        lg: "16px",
+        xl: "24px",
+        "2xl": "40px",
+        "3xl": "60px",
+      },
 
-        xs: '4px',
-        md:'12px',
-        lg:'16px',
-        xl:'24px',
-        '2xl':'40',
-        '3xl':'60'
-
-      }
+      colors: {
+        color1: "#63DC00",
+        color2: "#FF6600",
+        grayCard: "#FFFFFF06"
+      },
     },
   },
   plugins: [],
-}
+};
