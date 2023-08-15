@@ -3,7 +3,7 @@
         <div class="filter bg-color1 backdrop-blur-xl">
             <div class="max-w-7xl mx-auto text-white px-2 md:px-4 py-16">
                 <div class="grid md:grid-cols-4 gap-4 text-center">
-                    <img src="../../assets/logo-d.png" alt="All1zed logo">
+                    <img src="../../assets/logo-d.png" alt="All1zed logo" class="bg-white rounded">
 
                      <hr class="border-t border-gray-500 md:hidden">
 
@@ -20,16 +20,16 @@
                         <p>info@all1zed.com</p>
 
                         <div class="space-x-2 mt-2 py-1 self-center">
-                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 hover:bg-success transition shadow text-[#0A76C8]">
+                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 bg-white hover:bg-white/50 transition shadow text-[#0A76C8]">
                                 <i class="fa-brands fa-facebook-f"></i>
                             </a>
-                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 hover:bg-success transition shadow text-[#BF681B]">
+                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 bg-white hover:bg-white/50 transition shadow text-[#BF681B]">
                                 <i class="fa-brands fa-instagram text-brown-500"></i>
                             </a>
-                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 hover:bg-success transition shadow text-[#0A94DC]">
+                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 bg-white hover:bg-white/50 transition shadow text-[#0A94DC]">
                                 <i class="fa-brands fa-twitter"></i>
                             </a>
-                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 hover:bg-success transition shadow text-[#0F1BC8]">
+                            <a href="#" class="inline-block rounded-full border border-success w-8 h-8 text-center p-1 bg-white hover:bg-white/50 transition shadow text-[#0F1BC8]">
                                 <i class="fa-brands fa-linkedin-in"></i>
                             </a>
                         </div>

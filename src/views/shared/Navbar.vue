@@ -25,13 +25,13 @@
         </div>
         <div class="flex bg-color1 text-white w-full p-2 space-x-2">
             <div class="flex w-full max-w-7xl mx-auto">
-                <a href="#"><img src="../../assets/full-logo.png" alt="" class="h-9 md:h-12 self-center drop-shadow"></a>
+                <a href="#"><img src="../../assets/full-logo.png" alt="" class="h-9 md:h-12 self-center drop-shadow bg-white p-1 rounded"></a>
                 <div class="flex flex-auto text-right"></div>
                 <button class="text-2xl md:hidden p-2 hover:text-orange-500 transition"><i class="fa-solid fa-bars drop-shadow"></i></button>
-                <div class="space-x-2 self-center hidden md:flex text-xl font-bold text-orange-100">
-                    <a href="/">Home</a>
-                    <a href="#">About</a>
-                    <a href="#">Contacts</a>
+                <div class="space-x-2 self-center hidden md:flex text-xl font-bold text-white">
+                    <a href="/" class="hover:text-orange-500 transition">Home</a>
+                    <a href="#" class="hover:text-orange-500 transition">About</a>
+                    <a href="#" class="hover:text-orange-500 transition">Contacts</a>
                 </div>
             </div>
         </div>
